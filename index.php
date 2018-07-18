@@ -1,3 +1,5 @@
 <?php
-	 echo"<strong> ola mundo </strong>"; 
+	 echo"<strong> hello word </strong>"; 
+
+	 echo"ola udemy";
 ?>
